@@ -1,0 +1,52 @@
+
+==========================================
+         SERVER PERFORMANCE REPORT
+==========================================
+Generated on: Sun Oct 26 19:00:46 UTC 2025
+Hostname: linux-test
+==========================================
+
+---- System Information ----
+OS Version     : Ubuntu 24.04.3 LTS
+Kernel Version : 6.14.0-1012-azure
+Uptime         : up 43 minutes
+Load Average   :  0.11, 0.13, 0.06
+Logged in Users: 1
+
+---- CPU Usage ----
+Total CPU Usage : 16.7%
+
+---- Memory Usage ----
+Total Memory   : 848Mi
+Used Memory    : 382Mi
+Free Memory    : 242Mi
+Usage Percent  : 45.05%
+
+---- Disk Usage ----
+Total Disk     : 34G
+Used Disk      : 1.7G
+Free Disk      : 32G
+Usage Percent  : 5%
+
+---- Top 5 Processes by CPU ----
+    PID COMMAND         %CPU %MEM
+   1476 python3          0.5  4.0
+    996 python3          0.2  4.1
+   1626 systemd          0.1  1.3
+      1 systemd          0.1  1.6
+   1061 agetty           0.1  0.2
+
+---- Top 5 Processes by Memory ----
+    PID COMMAND         %CPU %MEM
+    996 python3          0.2  4.1
+   1476 python3          0.5  4.0
+    194 multipathd       0.0  3.1
+   1039 unattended-upgr  0.0  2.6
+    979 networkd-dispat  0.0  2.3
+
+---- Failed Login Attempts ----
+2025-10-26T18:58:39.395590+00:00 linux-test sshd[1616]: Failed password for root                                                                                                                                                              from 103.212.120.108 port 56342 ssh2
+
+==========================================
+       END OF PERFORMANCE REPORT
+==========================================
