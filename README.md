@@ -1,4 +1,4 @@
-https://github.com/shan-anand3790/Devops-Learning.git
+https://github.com/shan-anand3790/Devops-Learning
 
 This file contains the script for get the below metrices 
 
